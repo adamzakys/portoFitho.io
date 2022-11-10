@@ -67,7 +67,7 @@ body {
     margin-left: -25px;
 }
 .topwrapper{
-    background: url("lain/image/bannert.png") white;
+    background: url(lain/image/bannert.png);
     height: 1131px;
     background-position: center;
     background-repeat: no-repeat;
